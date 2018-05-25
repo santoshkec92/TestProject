@@ -1,4 +1,4 @@
 
-public enum Santosh {
+public interface santosh {
 
 }
